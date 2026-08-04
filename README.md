@@ -9,7 +9,7 @@
   <img src="https://github.com/SwipFvck/SwipFvck/blob/main/Proyek Baru 76 %5B3EE50FF%5D.png">
 </p>
 
-<h1 align="center">Swiper Fvck</h1>
+<h1 align="center">Killua official</h1>
 
 <p align="center">
   Backend Developer • Bot Developer
