@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/SwipFvck/SwipFvck/blob/main/Proyek Baru 76 %5B3EE50FF%5D.png">
+  <img src="https://i.ibb.co/0ygGcrkP/jawadmd.jpg">
 </p>
 
 <h1 align="center">Killua official</h1>
